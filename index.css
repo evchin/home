@@ -19,6 +19,11 @@ a {
     color: #5C80BC
 }
 
+iframe {
+    height: 95vh;
+    width: 95vw;
+}
+
 .snarky-comment {
     font-size: small;
     font-style: italic;
