@@ -29,3 +29,8 @@ iframe {
     font-style: italic;
     margin-top: -20px;
 }
+
+.bullet-note {
+    font-size: small;
+    font-style: italic;
+}
