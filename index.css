@@ -1,36 +1,36 @@
-@import url(https://fonts.googleapis.com/css2?family=Space+Mono);
+@import url(https://fonts.googleapis.com/css2?family=Roboto+Mono);
 
 body {
-    padding-left: 1vw;
-    max-width: 700px;
+  padding-left: 1vw;
+  max-width: 700px;
 }
 
 * {
-    font-family: 'Space Mono', serif, arial;
+  font-family: "Roboto Mono", serif, arial;
 }
 
 li {
-    list-style: none;
-    text-decoration: none;
+  list-style: none;
+  text-decoration: none;
 }
 
 a {
-    text-decoration: none;
-    color: #5C80BC
+  text-decoration: none;
+  color: #5c80bc;
 }
 
 iframe {
-    height: 95vh;
-    width: 95vw;
+  height: 95vh;
+  width: 95vw;
 }
 
 .snarky-comment {
-    font-size: small;
-    font-style: italic;
-    margin-top: -20px;
+  font-size: small;
+  font-style: italic;
+  margin-top: -20px;
 }
 
 .bullet-note {
-    font-size: small;
-    font-style: italic;
+  font-size: small;
+  font-style: italic;
 }
