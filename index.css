@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css2?family=Roboto+Mono);
+@import url(https://fonts.googleapis.com/css2?family=Inter);
 
 body {
   padding-left: 1vw;
@@ -6,7 +6,7 @@ body {
 }
 
 * {
-  font-family: "Roboto Mono", serif, arial;
+  font-family: "Inter", sans-serif, arial;
 }
 
 li {
